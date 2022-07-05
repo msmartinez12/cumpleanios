@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background: #020202;
+    cursor: crosshair;
+  }
+  canvas{display:block}
+  h2 {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: #fff;
+    font-family: "Source Sans Pro";
+    font-size: 3em;
+    font-weight: 800;
+    -webkit-user-select: none;
+    user-select: none;
+  }
